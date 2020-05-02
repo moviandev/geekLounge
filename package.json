@@ -67,7 +67,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm test && npm run test:e2e"
+      "pre-commit": "yarn test && yarn run test:e2e"
     }
   }
 }
