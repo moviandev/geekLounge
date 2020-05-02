@@ -6,7 +6,7 @@
 Backend com os endpoints para gerenciamento das funcionalidades do Geek Lounge, o portal de análises da sétima arte!
 </p>
 <p align="center">
-  <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
+  <a target="_blank" href="https://travis-ci.com/github/moviandev/geekLounge"><img src="https://travis-ci.com/moviandev/geekLounge.svg?branch=master" alt="Build status" /></a>
 </p>
 
 ## Description

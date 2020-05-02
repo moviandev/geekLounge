@@ -1,0 +1,9 @@
+version: "3.5"
+services:
+  geek-lounge-api-test:
+    container_name: geeks-lounge-test
+    build:
+      context: "."
+      dockerfile: test.Dockerfile
+    ports:
+      - 3001:3000
